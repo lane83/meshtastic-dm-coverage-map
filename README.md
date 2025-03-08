@@ -1,4 +1,4 @@
-# Meshtastic Home Node Direct MessageCoverage Map
+# Meshtastic Home Node Direct Message Coverage Map
 
 A real-time coverage mapping tool to measure the 3-hop coverage area for a Meshtastic node. This application listens for direct messages from Meshtastic nodes containing GPS coordinates and visualizes the network coverage area on a live interactive map.
 
