@@ -32,8 +32,8 @@ I connected a Heltec V3 Meshtastic node using USB to an Ubuntu Linux machine and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mesh-dm-map.git
-   cd mesh-dm-map
+   git clone https://github.com/lane83/meshtastic-dm-coverage-map.git
+   cd meshtastic-dm-coverage-map
    ```
 
 2. Create and activate a virtual environment:
@@ -90,7 +90,7 @@ Example:
 ## Project Structure
 
 ```
-mesh-dm-map/
+meshtastic-dm-coverage-map/
 ├── server.py           # Main Python server
 ├── requirements.txt    # Python dependencies
 ├── data/
