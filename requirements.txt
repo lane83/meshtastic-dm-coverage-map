@@ -1,0 +1,6 @@
+meshtastic
+fastapi
+uvicorn[standard]
+scipy
+numpy
+websockets
